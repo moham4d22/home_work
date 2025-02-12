@@ -3,8 +3,8 @@
 // Convert greeting to uppercase and print it
 //uppercase and print it.
 void main() {
-  String greetig = 'hello, dart!';
-  print(greetig.length);
+  String greeting = 'hello, dart!';
+  print(greeting.length);
 
-  print(greetig.toUpperCase());
+  print(greeting.toUpperCase());
 }
